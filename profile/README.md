@@ -1,5 +1,5 @@
 # Flame 👋
-<img src="https://media.discordapp.net/attachments/777395872568049695/1146977732224356392/1080.png?width=1248&height=512"  />
+<img src="https://media.discordapp.net/attachments/777395872568049695/1146981933142769834/1080.png?width=1248&height=512"  />
 
 
 ## Instalação
