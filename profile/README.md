@@ -12,7 +12,7 @@ git clone <link>
 ## Conteúdo
 
 ```python
-- Base ESX traduzida para PT-BR
+- Base CREATIVE traduzida para PT-BR
 - Todo o pacote visual em .psd
 - Bot do discord
 - Outros
